@@ -1,6 +1,8 @@
 # Burnlike
 
-This is a cellular automaton made as an attempt to reverse engineer the [https://esolangs.org/wiki/Burn](Burn) cellular automaton. Burn first appeared on the internet in 2008 with no details on its behavior and only an example program: a Rule 110 interpreter. Its creator added more information in 2010 and 2021, but other than that, the language is unimplemented.
+This is a cellular automaton made as an attempt to reverse engineer the [Burn](https://esolangs.org/wiki/Burn) cellular automaton. Burn first appeared on the internet in 2008 with no details on its behavior and only an example program: a Rule 110 interpreter. Its creator added more information in 2010 and 2021, but other than that, the language is unimplemented.
+
+I also put something [here](https://esolangs.org/wiki/Talk:Burn#A_ruleset_that_interprets_Rule_110_given_the_example_program) that describes it somewhat more in depth.
 
 Burnlike is a cellular automaton designed to implement Rule 110 given the example program. It has the following rules:
 
